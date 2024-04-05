@@ -28,5 +28,6 @@ Para ejecutar el programa, sigue estos pasos:
 2. Abre una terminal en el directorio del repositorio.
 3. Ejecuta el siguiente comando:
 
+## Codigo realizado por ChatGPT
 ![code.png](code.png)
 
